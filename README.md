@@ -15,7 +15,7 @@ Features:
 - Mechanism that does not allow snake to turn directly 180 degrees and run through itself
 - Other basic functionality like clear, refresh and reset methods for food creation
 
-![](GIF_URL)
+![](https://github.com/tudorobretin/Snake-Game/blob/readme/Snake.gif)
 
 
         
